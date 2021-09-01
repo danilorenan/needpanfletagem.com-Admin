@@ -17,14 +17,7 @@ const Navbar = () => {
             </BannerContainer>
             <ContainerMenu>
                 <Menu>
-                    <ul>
-                        <li>
-                            <a>Adicionar post Instagram</a>
-                        </li>
-                        <li>
-                            <a>Adicionar image á galeria</a>
-                        </li>
-                    </ul>
+                    <li style={{listStyle: 'none'}}>Admin page</li>
                     <div className='icons-container'>
                         <InstaIcon/>
                         <FaceIcon/>

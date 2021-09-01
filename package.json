@@ -9,8 +9,13 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
+    "filesize": "^8.0.0",
+    "lodash": "^4.17.21",
     "react": "^17.0.2",
+    "react-circular-progressbar": "^2.0.4",
     "react-dom": "^17.0.2",
+    "react-dropzone": "^11.3.4",
+    "react-icons": "^4.2.0",
     "react-scripts": "4.0.3",
     "styled-components": "^5.3.0",
     "web-vitals": "^1.0.1"
@@ -38,5 +43,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }, "proxy" : "http://localhost:3333/api/"
+  },
+  "proxy": "http://localhost:3333/api/"
 }
